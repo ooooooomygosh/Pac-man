@@ -138,17 +138,17 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 48
-        width: 12
-        height: 15
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 02d2ecdd44a269c20800000000000000
-      internalID: 3212801859442847008
+      spriteID: b0674f2ca9cb645baa719dbaff325af9
+      internalID: -454765312
       vertices: []
       indices: 
       edges: []
@@ -159,17 +159,17 @@ TextureImporter:
         serializedVersion: 2
         x: 16
         y: 48
-        width: 15
-        height: 15
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7f4bb901e9b3035a0800000000000000
-      internalID: -6543664708499819273
+      spriteID: 2ea95517ebe134de4b965a1599938902
+      internalID: -1827576103
       vertices: []
       indices: 
       edges: []
@@ -181,16 +181,16 @@ TextureImporter:
         x: 32
         y: 48
         width: 16
-        height: 15
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 09d4256bcdadbf8b0800000000000000
-      internalID: -5117255910089929328
+      spriteID: e7bb2928ace7b44bfa53ea1cbb12b448
+      internalID: 1309853132
       vertices: []
       indices: 
       edges: []
@@ -199,19 +199,19 @@ TextureImporter:
       name: Pacman_3
       rect:
         serializedVersion: 2
-        x: 4
+        x: 0
         y: 32
-        width: 12
-        height: 15
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 42c066df0d7580620800000000000000
-      internalID: 2740536928371084324
+      spriteID: dc202e660f97641c7a7e084e49f24955
+      internalID: -1642604178
       vertices: []
       indices: 
       edges: []
@@ -220,19 +220,19 @@ TextureImporter:
       name: Pacman_4
       rect:
         serializedVersion: 2
-        x: 17
+        x: 16
         y: 32
-        width: 15
-        height: 15
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 77d12292d45ced060800000000000000
-      internalID: 6980233407664102775
+      spriteID: a94d7eaf816034ee38b8cc6d37ccc6ff
+      internalID: -1691564738
       vertices: []
       indices: 
       edges: []
@@ -244,16 +244,16 @@ TextureImporter:
         x: 32
         y: 32
         width: 16
-        height: 15
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e887bce12345ac090800000000000000
-      internalID: -8013500012710627186
+      spriteID: 606392cee5ac34aceb03310b47178886
+      internalID: 305632994
       vertices: []
       indices: 
       edges: []
@@ -264,17 +264,17 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 16
-        width: 15
-        height: 12
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d53af47e0a902cf70800000000000000
-      internalID: 9205931174978888541
+      spriteID: f888f83a4e0b64357827fd49ea4b764f
+      internalID: 894102882
       vertices: []
       indices: 
       edges: []
@@ -283,19 +283,19 @@ TextureImporter:
       name: Pacman_7
       rect:
         serializedVersion: 2
-        x: 0
-        y: 4
-        width: 15
-        height: 12
+        x: 16
+        y: 16
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4260cde21141f2670800000000000000
-      internalID: 8516047484414068260
+      spriteID: 843aa7b389cc84556800151e75dd9f74
+      internalID: 1381143593
       vertices: []
       indices: 
       edges: []
@@ -304,19 +304,19 @@ TextureImporter:
       name: Pacman_8
       rect:
         serializedVersion: 2
-        x: 16
+        x: 32
         y: 16
-        width: 15
-        height: 15
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 86cd76c7c92cebe60800000000000000
-      internalID: 7980029567104965736
+      spriteID: 0d2a506b8afb04053a94f0cf3cbbce50
+      internalID: -158361220
       vertices: []
       indices: 
       edges: []
@@ -325,19 +325,19 @@ TextureImporter:
       name: Pacman_9
       rect:
         serializedVersion: 2
-        x: 16
-        y: 1
-        width: 15
-        height: 15
+        x: 0
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9f5fb9addf5e7a1c0800000000000000
-      internalID: -4492369224821639687
+      spriteID: 78dae1f0639c24b40ae54d4d03aa4e76
+      internalID: 536020517
       vertices: []
       indices: 
       edges: []
@@ -346,19 +346,19 @@ TextureImporter:
       name: Pacman_10
       rect:
         serializedVersion: 2
-        x: 32
-        y: 16
-        width: 15
-        height: 15
+        x: 16
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6e0e5743fa9b18890800000000000000
-      internalID: -7457475345798274842
+      spriteID: e56a16b68f64a467d945b9a144916313
+      internalID: 1515546555
       vertices: []
       indices: 
       edges: []
@@ -368,18 +368,18 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 32
-        y: 1
-        width: 15
-        height: 15
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 097e54ca4026f4b10800000000000000
-      internalID: 1967899334393849744
+      spriteID: 899f13f148fce4e02b657c1a64a32354
+      internalID: -361206048
       vertices: []
       indices: 
       edges: []
@@ -387,14 +387,26 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: d471ffa813dcd4267b97779103920886
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pacman_0: -454765312
+      Pacman_1: -1827576103
+      Pacman_10: 1515546555
+      Pacman_11: -361206048
+      Pacman_2: 1309853132
+      Pacman_3: -1642604178
+      Pacman_4: -1691564738
+      Pacman_5: 305632994
+      Pacman_6: 894102882
+      Pacman_7: 1381143593
+      Pacman_8: -158361220
+      Pacman_9: 536020517
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
