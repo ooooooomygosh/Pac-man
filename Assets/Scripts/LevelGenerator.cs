@@ -59,7 +59,7 @@ public class LevelGenerator : MonoBehaviour
             for (int x = 0; x < map.GetLength(1); x++)
             {
                 // 获取当前元素的值
-                int tileType = map[x, y];
+                int tileType = map[y, x];
 
                 // 计算生成物体的初始位置
                 Vector2 spawnPosition = new Vector2(startPosition.x + (x * tileSpacing), startPosition.y - (y * tileSpacing));
