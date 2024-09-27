@@ -10,7 +10,7 @@ public class LevelGenerator : MonoBehaviour
     public GameObject pelletPrefab;      // 普通豆子预制件
     public GameObject powerPelletPrefab; // 能量豆子预制件
 
-    public Vector2 startPosition = new Vector2(0, 0); // 生成起点位置
+    public Vector2 startPosition = new Vector2(-67, 72); // 生成起点位置
     public float tileSpacing = 5f; // 每个物体之间的距离
     public float scaleMultiplier = 1f; // 物体的缩放比例
 
