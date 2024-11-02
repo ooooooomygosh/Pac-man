@@ -72,7 +72,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 20
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -298,15 +298,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      Blinky_0: 4127466764148808450
-      Blinky_1: 8636194471806876905
-      Blinky_2: 8783457422590910754
-      Blinky_3: -6029229405028323493
-      Blinky_4: 1467621111920246053
-      Blinky_5: 1971728027214478439
-      Blinky_6: 1201519757992026400
-      Blinky_7: -6027352854200264622
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
