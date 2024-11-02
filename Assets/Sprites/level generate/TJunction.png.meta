@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: 70061a03c6ae8450a808a9a22e2c6caa
+guid: 6de0718cfe50e4240a971aa17b2796dd
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -393523759992096184
-    second: power pellet_0
+      213: 1272056469653595252
+    second: TJunction_0
+  - first:
+      213: -1081682401876597237
+    second: TJunction_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +49,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -100,13 +103,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: power pellet_0
+      name: TJunction_0
       rect:
         serializedVersion: 2
-        x: 39
-        y: 39
-        width: 302
-        height: 302
+        x: 0
+        y: 71
+        width: 128
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -114,8 +117,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 84abefaa93ce98af0800000000000000
-      internalID: -393523759992096184
+      spriteID: 474a0f79e9047a110800000000000000
+      internalID: 1272056469653595252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TJunction_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 69
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06aa5426971df0f0800000000000000
+      internalID: -1081682401876597237
       vertices: []
       indices: 
       edges: []
@@ -123,14 +147,16 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TJunction_0: 1272056469653595252
+      TJunction_1: -1081682401876597237
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
