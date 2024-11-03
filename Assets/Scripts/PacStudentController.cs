@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
 
-public class NewBehaviourScript : MonoBehaviour
+public class PacStudentController : MonoBehaviour
 {
-    public float speed = 0.35f;
+    public float speed = 0.25f;
     private Vector2 dest = Vector2.zero;
 
 
