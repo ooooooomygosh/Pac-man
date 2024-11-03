@@ -627,9 +627,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 796963744296218668, guid: ad294841cba4840009be734fcfd3c46d, type: 3}
       propertyPath: m_Text
-      value: 'Who You Gonna Call?
-
-        Not Pac-Man,'
+      value: Enjoy the new Pacman!
+      objectReference: {fileID: 0}
+    - target: {fileID: 796963744296218668, guid: ad294841cba4840009be734fcfd3c46d, type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 35
       objectReference: {fileID: 0}
     - target: {fileID: 1036843886559304414, guid: ad294841cba4840009be734fcfd3c46d, type: 3}
       propertyPath: m_CullTransparentMesh

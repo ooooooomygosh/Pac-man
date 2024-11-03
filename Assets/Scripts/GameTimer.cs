@@ -14,7 +14,7 @@ public class GameTimer : MonoBehaviour
         // 计算分钟、秒和毫秒
         int minutes = Mathf.FloorToInt(elapsedTime / 60);
         int seconds = Mathf.FloorToInt(elapsedTime % 60);
-        int milliseconds = Mathf.FloorToInt((elapsedTime * 100) % 100 - 1);
+        int milliseconds = Mathf.FloorToInt((elapsedTime * 100) % 100);
 
         // 格式化时间并显示
         timerText.text = string.Format("{0:00}:{1:00}:{2:00}", minutes, seconds, milliseconds);
