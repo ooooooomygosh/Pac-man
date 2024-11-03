@@ -298,7 +298,15 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pinky_0: -597495240494497970
+      Pinky_1: 8814897639129189694
+      Pinky_2: 4369517969404171245
+      Pinky_3: -1075427854322941570
+      Pinky_4: -6730042589853215696
+      Pinky_5: -1002760270618255185
+      Pinky_6: -8765363845960384285
+      Pinky_7: -689601919690246575
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

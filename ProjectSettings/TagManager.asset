@@ -12,6 +12,8 @@ TagManager:
   - 5
   - 6
   - 7
+  - StartGame
+  - Level 1
   layers:
   - Default
   - TransparentFX

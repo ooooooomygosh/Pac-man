@@ -298,7 +298,15 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Clyde_0: -6809031913082364651
+      Clyde_1: 5220119990602387702
+      Clyde_2: 5666453201092439631
+      Clyde_3: -8896796753041570425
+      Clyde_4: 2204018340042255292
+      Clyde_5: -4077433131998321875
+      Clyde_6: 4715644034791986740
+      Clyde_7: 8174007839544407427
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
